@@ -1,0 +1,15 @@
+{
+  "name": "wanted-pre-onboarding-challenge-fe-2",
+  "version": "1.0.0",
+  "description": "원티드 사전과제",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "node src/index.mjs",
+    "doc": "jsdoc -c jsdoc.conf.json src/TodoController.mjs src/Todo.mjs"
+  },
+  "author": "김태원",
+  "license": "ISC",
+  "dependencies": {
+    "jsdoc": "^4.0.0"
+  }
+}
