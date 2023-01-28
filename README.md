@@ -1,7 +1,7 @@
 # 원티드 사전과제
 
-https://dankim0213.github.io/module-Todo.html
-기본적인 CRUD를 만들었습니다. Controller와 DTO에 주석을 달았습니다.
+- https://dankim0213.github.io/out/index.html
+- 기본적인 CRUD를 만들었습니다. Controller와 DTO에 주석을 달았습니다.
 
 ## 챌린지 과제 가이드
 
@@ -15,3 +15,4 @@ https://dankim0213.github.io/module-Todo.html
 - 해당 과제에 대한 해설은 개강 후 진행될 예정입니다.
 - README.md를 꼭 작성해 주세요. 본인에 대한 소개나 프로젝트 소개 등 자유롭게 작성해주시면 됩니다.
 - JSDoc 환경 구성에 어색한 경우 [Boilerplate](https://github.com/pocojang/jsdoc-boilerplate)를 이용하셔도 됩니다
+- [link](https://gist.github.com/pocojang/3c3d4470a3d2a978b5ebfb3f613e40fa)
