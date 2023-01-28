@@ -1,6 +1,6 @@
 # 원티드 사전과제
 
-- https://dankim0213.github.io/out/index.html
+- https://dankim0213.github.io/out
 - 기본적인 CRUD를 만들었습니다. Controller와 DTO에 주석을 달았습니다.
 
 ## 챌린지 과제 가이드
